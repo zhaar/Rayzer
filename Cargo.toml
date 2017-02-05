@@ -1,0 +1,6 @@
+[package]
+name = "rayzer"
+version = "0.1.0"
+authors = ["zephyz <zephyz.zhaar@gmail.com>"]
+
+[dependencies]
